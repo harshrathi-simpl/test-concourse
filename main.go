@@ -9,5 +9,6 @@ func Add(a, b int) int {
 }
 
 func main() {
+	fmt.Print("ahaj")
     fmt.Println("Simple Go App")
 }
